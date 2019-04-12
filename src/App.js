@@ -67,7 +67,8 @@ class App extends Component {
              <Navbar 
           score={this.state.score}
         />
-        <Title>Friends List</Title>
+        <Title><h1>Color Click Away</h1>
+        </Title>
         {this.state.friends.map(friend => (
           <FriendCard
             imageClick={this.imageClick}

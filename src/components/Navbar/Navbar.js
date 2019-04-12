@@ -3,10 +3,11 @@
 import React, { Component } from "react";
 import "./Navbar.css";
 
+
 class Navbar extends Component {
   render() {
     return (
-      <nav className="navbar navbar-default navbar-fixed-top">
+      <nav className="navbar navbar-default navbar-fixed-top header myHeader">
          <ul>
           <li className="itemLeft">Test Your Memory</li>
           <li className="itemCenter"></li>
@@ -16,6 +17,7 @@ class Navbar extends Component {
     );
   }
 }
+
 
 
 

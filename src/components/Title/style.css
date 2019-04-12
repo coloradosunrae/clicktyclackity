@@ -1,9 +1,24 @@
+.background{
+  background-image: url("https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/188520/580/386/m1/fpnw/wm0/1-.jpg?1411214949&s=2b1423d7ab11d821a8dc19b634c57bd3");
+}
+
 .title {
     width: 100%;
     text-align: center;
     font-size: 3rem;
-    text-decoration: underline;
-    color: #2A77AE;
     margin-bottom: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
   }
+
+  h2{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: white;
+    padding: 30px;
+    border: 4px dotted black;
+    
+
+  }
+
+  
   
