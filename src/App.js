@@ -1,11 +1,10 @@
 import React, { Component } from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
 import friends from "./friends.json";
-import NavTabs from "./components/NavTabs";
-import Home from "./components/Home";
+// import NavTabs from "./components/NavTabs";
+// import Home from "./components/Home";
 
 
 
@@ -27,12 +26,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-         <Router>
-      <div>
-        <NavTabs />
-        <Route exact path="/" component={Home} />
-      </div>
-    </Router>
+      
         <Title>Friends List</Title>
         {this.state.friends.map(friend => (
           <FriendCard

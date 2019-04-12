@@ -2,7 +2,7 @@
   "name": "clicky",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://coloradosunrae.github.io/click/",
+  "homepage": "https://coloradosunrae.github.io/clicktyclackity/",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
