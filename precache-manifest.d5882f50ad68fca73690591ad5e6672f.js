@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/clicktyclackity/static/js/runtime~main.e51c9c35.js"
   },
   {
-    "revision": "370f46931cf0f43d638c",
-    "url": "/clicktyclackity/static/js/main.203c7604.chunk.js"
+    "revision": "5acc1ce6559a59b01dd6",
+    "url": "/clicktyclackity/static/js/main.fa856d04.chunk.js"
   },
   {
     "revision": "58f496bc1ce27350f0eb",
     "url": "/clicktyclackity/static/js/2.98dcc9dd.chunk.js"
   },
   {
-    "revision": "370f46931cf0f43d638c",
-    "url": "/clicktyclackity/static/css/main.18f6048b.chunk.css"
+    "revision": "5acc1ce6559a59b01dd6",
+    "url": "/clicktyclackity/static/css/main.da87de5e.chunk.css"
   },
   {
-    "revision": "5c7d00739dbe5f627cb33235a3b7d5c9",
+    "revision": "80cc067924b0a0eee8350ad6591dc3c0",
     "url": "/clicktyclackity/index.html"
   }
 ];
