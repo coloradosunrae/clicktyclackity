@@ -1,13 +1,13 @@
 {
-  "main.css": "/clicktyclackity/static/css/main.da87de5e.chunk.css",
-  "main.js": "/clicktyclackity/static/js/main.fa856d04.chunk.js",
-  "main.js.map": "/clicktyclackity/static/js/main.fa856d04.chunk.js.map",
+  "main.css": "/clicktyclackity/static/css/main.3bd3121c.chunk.css",
+  "main.js": "/clicktyclackity/static/js/main.4d5b6a32.chunk.js",
+  "main.js.map": "/clicktyclackity/static/js/main.4d5b6a32.chunk.js.map",
   "runtime~main.js": "/clicktyclackity/static/js/runtime~main.e51c9c35.js",
   "runtime~main.js.map": "/clicktyclackity/static/js/runtime~main.e51c9c35.js.map",
   "static/js/2.98dcc9dd.chunk.js": "/clicktyclackity/static/js/2.98dcc9dd.chunk.js",
   "static/js/2.98dcc9dd.chunk.js.map": "/clicktyclackity/static/js/2.98dcc9dd.chunk.js.map",
   "index.html": "/clicktyclackity/index.html",
-  "precache-manifest.d5882f50ad68fca73690591ad5e6672f.js": "/clicktyclackity/precache-manifest.d5882f50ad68fca73690591ad5e6672f.js",
+  "precache-manifest.0e740a32d785b320081eda1f3539008b.js": "/clicktyclackity/precache-manifest.0e740a32d785b320081eda1f3539008b.js",
   "service-worker.js": "/clicktyclackity/service-worker.js",
-  "static/css/main.da87de5e.chunk.css.map": "/clicktyclackity/static/css/main.da87de5e.chunk.css.map"
+  "static/css/main.3bd3121c.chunk.css.map": "/clicktyclackity/static/css/main.3bd3121c.chunk.css.map"
 }
